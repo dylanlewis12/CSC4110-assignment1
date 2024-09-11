@@ -1,3 +1,4 @@
-# CSC4110-assignment1
-## Dylan Lewis
-### hi4491
+# Github and git conflict
+## CSC4110-assignment1
+### Dylan Lewis
+#### hi4491
